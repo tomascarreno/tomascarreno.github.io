@@ -1,6 +1,6 @@
-# Tomás Ignacio Carreño González - Portfolio
+# Tomás Ignacio Carreño González - Portafolio
 
-Portfolio profesional de Constructor Civil especializado en supervisión y gestión técnico-administrativa de proyectos de construcción.
+Portafolio profesional de Constructor Civil especializado en supervisión y gestión técnico-administrativa de proyectos de construcción.
 
 ## Tecnologías
 
